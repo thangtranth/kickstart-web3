@@ -1,0 +1,5 @@
+.env
+.next
+.vscode
+bin
+node_modules
